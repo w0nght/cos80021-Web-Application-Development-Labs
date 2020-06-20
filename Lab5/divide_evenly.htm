@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN� "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <title>Task 5a Divide Evenly</title>
+  <script type="text/javascript">
+    // TODO: use document.write for output
+
+    function isFloat(n){
+      return Number(n) === n && n % 1 !== 0;
+    }
+    function printNumber() {
+      var x = document.getElementById("inputNum").value;
+      
+      if (isNaN(x)) {// not a number function
+         x = x + " is not a number ";
+      } else {  
+        // is number, now we divide the number
+        var y;
+        y = x;
+        document.write(y+"<br>");
+        // var i = x;
+        while (y > 0) {
+          // if write method used after an HTML document is flly loaded, it will delete all existing HTML
+          if (isFloat(x/y)) {
+            document.write(y+"<br>");
+          } else if (y ==1) {
+            document.write(y+"<br>");
+          }
+          y--;
+        }
+      }
+      document.getElementById("result").innerHTML = x;
+    }
+    </script>
+</head>
+<body> 
+    <form action="">
+      <label for="">Please input a number: 
+        <input type="text" id="inputNum"  name="numberfield" />
+      </label>
+      <input type="button" value="Calculate" onclick="printNumber();" />
+      <p id="result"></p>
+    </form>
+</body>
+</html>

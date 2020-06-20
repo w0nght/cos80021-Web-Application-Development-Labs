@@ -1,0 +1,5 @@
+1. What is 1 + 1 in Binary value? : A) 11, B) 0, C) 10, D) 2
+2. What is the capital of Australia? : A) Sydney, B) Melbourne, C) Perth, D) Canberra
+3. Which one is Eminem's latest album? : A) Kamikaze, B) The Eminem Show, C) Music To Be Murdered By, D) The Marchall Mathers LP2
+4. Which song is on Eminem's Kamikaze album? : A) The Ringer, B) Walk On Water, C) Rap God, D) The Monster
+5. Which song is on Eminem's Revival album? : A) The Ringer, B) Walk On Water, C) Rap God, D) The Monsters

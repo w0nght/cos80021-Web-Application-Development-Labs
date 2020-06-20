@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<hotels>
+  <hotel>
+    <City>Paris</City>
+    <Name>La Splendide</Name>
+    <Type>Budget</Type>
+    <Price>100</Price>
+  </hotel>
+  <hotel>
+    <City>Paris</City>
+    <Name>La Splendide ii</Name>
+    <Type>Standard</Type>
+    <Price>200</Price>
+  </hotel>
+  <hotel>
+    <City>Paris</City>
+    <Name>La Splendide iii</Name>
+    <Type>Budget</Type>
+    <Price>120</Price>
+  </hotel>
+  <hotel>
+    <City>Paris</City>
+    <Name>La Splendide iv</Name>
+    <Type>Luxury</Type>
+    <Price>330</Price>
+  </hotel>
+  <hotel>
+    <City>Paris</City>
+    <Name>La Splendide vi</Name>
+    <Type>Budget</Type>
+    <Price>106</Price>
+  </hotel>
+  <hotel>
+    <City>Paris</City>
+    <Name>La Splendide vi</Name>
+    <Type>Luxury</Type>
+    <Price>999</Price>
+  </hotel>
+  <hotel>
+    <City>London</City>
+    <Name>The Rilton</Name>
+    <Type>Luxury</Type>
+    <Price>300</Price>
+  </hotel>
+  <hotel>
+    <City>London</City>
+    <Name>The Rilton 5</Name>
+    <Type>Luxury</Type>
+    <Price>299</Price>
+  </hotel>
+  <hotel>
+    <City>London</City>
+    <Name>The Rilton 4</Name>
+    <Type>Budget</Type>
+    <Price>90</Price>
+  </hotel>
+    <hotel>
+    <City>London</City>
+    <Name>The Rilton 6</Name>
+    <Type>Budget</Type>
+    <Price>88</Price>
+  </hotel>
+    <hotel>
+    <City>London</City>
+    <Name>The Rilton 2</Name>
+    <Type>Standard</Type>
+    <Price>205</Price>
+  </hotel>
+  <hotel>
+    <City>New York</City>
+    <Name>New York 1</Name>
+    <Type>Budget</Type>
+    <Price>90</Price>
+  </hotel>
+  <hotel>
+    <City>New York</City>
+    <Name>New York 2</Name>
+    <Type>Budget</Type>
+    <Price>99</Price>
+  </hotel>
+  <hotel>
+    <City>New York</City>
+    <Name>New York 3</Name>
+    <Type>Budget</Type>
+    <Price>91</Price>
+  </hotel>
+  <hotel>
+    <City>Seattle</City>
+    <Name>The Seattle 4</Name>
+    <Type>Standard</Type>
+    <Price>140</Price>
+  </hotel>
+  <hotel>
+    <City>Seattle</City>
+    <Name>The Seattle 6</Name>
+    <Type>Standard</Type>
+    <Price>128</Price>
+  </hotel>
+    <hotel>
+    <City>Seattle</City>
+    <Name>The Seattle 2</Name>
+    <Type>Standard</Type>
+    <Price>175</Price>
+  </hotel>
+  <hotel>
+    <City>Chicago</City>
+    <Name>Chicago No.1</Name>
+    <Type>Luxury</Type>
+    <Price>299</Price>
+  </hotel>
+  <hotel>
+    <City>London</City>
+    <Name>Chicago No.14</Name>
+    <Type>Budget</Type>
+    <Price>90</Price>
+  </hotel>
+    <hotel>
+    <City>Chicago</City>
+    <Name>Chicago No.16</Name>
+    <Type>Budget</Type>
+    <Price>88</Price>
+  </hotel>
+  <hotel>
+    <City>Chicago</City>
+    <Name>Chicago No.2</Name>
+    <Type>Standard</Type>
+    <Price>199</Price>
+  </hotel>
+  <hotel>
+    <City>London</City>
+    <Name>Chicago No.22</Name>
+    <Type>Standard</Type>
+    <Price>190</Price>
+  </hotel>
+    <hotel>
+    <City>Chicago</City>
+    <Name>Chicago No.25</Name>
+    <Type>Standard</Type>
+    <Price>188</Price>
+  </hotel>
+</hotels>

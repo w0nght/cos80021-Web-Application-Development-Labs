@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="bookstore.xsl" ?>
+
+<bookstore>
+	<book>
+ 		<title genre="fiction">Harry Potter</title>
+    	<authors>
+			<author>J. K. Rowling</author>
+			<author>Rendy Pranata</author>
+		</authors>
+		<publisher>Bloomsbury</publisher>    
+		<year>2005</year>
+    	<price>29.99</price>
+  	</book>
+	<book>
+ 		<title genre="non-fiction">Concurrent Programming in Java(tm): Design Principles and Pattern</title>
+    	<authors>
+			<author>Doug Lea</author>
+			<author>Douglas Lea</author>
+		</authors>
+		<publisher>Addison-Wesley Educational Publishers Inc</publisher>    
+		<year>1999</year>
+    	<price>71.49</price>
+  	</book>
+	<book>
+ 		<title genre="non-fiction">Concurrent and Real-Time Programming in Java</title>
+    	<authors>
+			<author>Leonard Hoon</author>
+		</authors>
+		<publisher>John Wiley and Sons Ltd</publisher>    
+		<year>2004</year>
+    	<price>89.49</price>
+  	</book>
+	<book>
+ 		<title genre="non-fiction">Concurrency: State Models and Java Programs</title>
+    	<authors>
+			<author>Jeff Magee</author>
+			<author>Jeff Kramer</author>
+		</authors>
+		<publisher>John Wiley and Sons Ltd</publisher>    
+		<year>2006</year>
+    		<price>84.49</price>
+  	</book>
+	<book>
+ 		<title genre="non-fiction">Killer Game Programming in Java</title>
+    		<authors>
+			<author>Andrew Davison</author>
+		</authors>
+		<publisher>O'Reilly Media, Inc, USA</publisher>    
+		<year>2005</year>
+    		<price>20.99</price>
+  	</book>
+	<book>
+ 		<title genre="fiction">The Hobbit</title>
+    		<authors>
+			<author>J.R.R. Tolkien</author>
+		</authors>
+		<publisher>Del Rey</publisher>    
+		<year>1986</year>
+    		<price>25.99</price>
+  	</book>
+</bookstore>

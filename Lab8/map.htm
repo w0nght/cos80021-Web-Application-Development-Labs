@@ -1,0 +1,17 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Google Maps JavaScript API Example</title>
+    <script src="xhr.js" type="text/javascript"></script>    
+	<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA2VWtIiYkkrFt6uptBppqpRQt5_S_ZKY0J2APcvJqK2A4nT5U3hQ4s6HjRyZVRa8h8aJtuAmcdDA8Jg"
+      type="text/javascript"></script>
+    <script src="map.js" type="text/javascript"></script>
+
+  </head>
+  <body onLoad="load()" onUnload="GUnload()">
+    <input id="address" name="address" type="text" size="50"/>
+    <input type="button" onClick="addMarker()" value="Click to Add Marker" />
+    <div id="map" style="width: 500px; height: 300px"></div>
+    <span id="markerConfirm" />
+  </body>
+</html>

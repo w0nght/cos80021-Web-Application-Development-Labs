@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<bookstore>
+  <book>
+    <title genre="fiction">Harry Potter and the Philosopher's Stone</title>
+    <authors>
+      <author>J. K. Rowling</author>
+    </authors>
+    <publisher>Bloomsbury (UK)</publisher>
+    <price>20.00</price>
+    <year></year>
+  </book>
+  <book>
+    <title genre="non-fiction">I'll Be Gone in the Dark</title>
+    <authors>
+      <author>Michelle McNamara</author>
+    </authors>
+    <publisher>HarperCollins</publisher>
+    <price>11.43</price>
+    <year></year>
+  </book>
+  <book>
+    <title genre="fiction">Percy Jackson & the Olympians: The Lightning Thief</title>
+    <authors>
+      <author>Rick Riordan</author>
+    </authors>
+    <publisher>hardcover</publisher>
+    <price>31.99</price>
+    <year></year>
+  </book>
+  <book>
+    <title genre="fiction">Lord of the Rings</title>
+    <authors>
+      <author>J. R. R. Tolkien</author>
+    </authors>
+    <publisher>Allen & Unwin</publisher>
+    <price>21.99</price>
+    <year></year>
+  </book>
+</bookstore>

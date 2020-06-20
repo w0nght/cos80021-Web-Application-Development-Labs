@@ -1,0 +1,28 @@
+.books
+{
+	margin-top:10px;
+}
+
+.spanTitle
+{
+	font-weight:bolder;
+	color:blue;
+}
+
+.spanAuthor
+{
+	font-style:italic;
+	color:red;
+}
+
+.spanPrice
+{
+	color:black;
+	font-style:normal;
+}
+
+.totalSpan
+{
+	font-size:2em;
+	font-family:"Times New Roman",Georgia,Serif
+}
